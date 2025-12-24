@@ -1,1 +1,10 @@
 .venv/
+venv/
+
+pycache/
+*.pyc
+
+.vscode/
+.idea/
+
+tasks/

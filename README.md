@@ -1,4 +1,7 @@
 # Lightweight CLI Task Manager
+> Educational project (early Python learning stage).  
+> Project is completed and not maintained.
+
 A simple command-line task manager written in Python. Tasks are stored as text files inside the `tasks/` directory.
 
 ## Features
@@ -52,8 +55,9 @@ Each option guides you through the required input.
 ## Project Structure
 ```
 Task-Manager/
-├── tasks/                 # Stored task files
 ├── main.py                # Entry point
+├── tasks.py 
+├── storage.py 
 ├── README.md
 ├── requirements.txt
 └── .gitignore
